@@ -100,14 +100,6 @@
       <url>http://downloads.sourceforge.net/project/lms-plugins-philippe44/ShairTunes2W-0.205.3.zip</url>
       <title lang="EN">ShairTunes2 (fork)</title>
     </plugin>
-    <plugin version="0.18.2" name="Reliable" minTarget="7.7" maxTarget="*">
-      <link>https://github.com/philippe44/LMS-reliable</link>
-      <creator>Philippe</creator>
-      <sha>2bc58ca164d0d7589e0c34a1da25beeeba32b54a</sha>
-      <email>philippe_44@outlook.com</email>
-      <desc lang="EN">Reliable HTTP connection for LMS</desc>
-      <url>http://downloads.sourceforge.net/project/lms-plugins-philippe44/Reliable-0.18.2.zip</url>
-      <title lang="EN">Reliable HTTP</title>
       <plugin version="1.41.0" name="UPnP" minTarget="7.9" maxTarget="*">
       <link>http://github.com/philippe44/UPnP</link>
       <creator>Philippe</creator>
