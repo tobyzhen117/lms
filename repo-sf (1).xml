@@ -108,6 +108,14 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <url>http://downloads.sourceforge.net/project/lms-plugins-philippe44/Reliable-0.18.2.zip</url>
       <title lang="EN">Reliable HTTP</title>
+      <plugin version="1.41.0" name="UPnP" minTarget="7.9" maxTarget="*">
+      <link>http://github.com/philippe44/UPnP</link>
+      <creator>Philippe</creator>
+      <sha>2bc58ca164d0d7589e0c34a1da25beeeba32b54a</sha>
+      <email>philippe_44@outlook.com</email>
+      <desc lang="EN">Upnp server</desc>
+      <url>https://sourceforge.net/projects/lms-plugins-philippe44/files/dev/UPnP-1.41.0.zip/</url>
+      <title lang="EN">UPnP</title>
     </plugin>
   </plugins>
   <details>
